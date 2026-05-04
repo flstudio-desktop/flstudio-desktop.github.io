@@ -1,0 +1,10 @@
+# robots.txt for https://flstudio-desktop.github.io
+# Allow indexing of all public pages
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://flstudio-desktop.github.io/sitemap.xml
+
+# Preferred host
+Host: flstudio-desktop.github.io
